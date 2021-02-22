@@ -44,6 +44,7 @@
     #kamal
     {
         width: 848px;
+        height:auto;
     }
     
     #time
@@ -78,5 +79,10 @@
     #time
     {
         padding-left:150px;
+    }
+    #kamal
+    {
+        height:auto;
+        width:500px;
     }
 }
