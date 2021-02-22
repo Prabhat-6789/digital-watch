@@ -2,7 +2,7 @@
 {
     background-color:black;
     width: 100%;
-    height:  746px;
+    height:auto;
 }
 
 /*#amit
@@ -44,7 +44,7 @@
     #kamal
     {
         width: 848px;
-        height:2000px;
+        height:auto;
     }
     
     #time
@@ -82,7 +82,7 @@
     }
     #kamal
     {
-        height:2000px;
+        height:auto;
         width:500px;
     }
 }
