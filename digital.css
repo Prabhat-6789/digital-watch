@@ -1,0 +1,82 @@
+#kamal
+{
+    background-color:black;
+    width: 100%;
+    height:  730px;
+}
+
+/*#amit
+{
+    height:30px;
+    width:350px;
+    margin-left: 20px;
+    background-color:azure;
+    /*border: 5px solid black;
+    padding-left:500px;
+    padding-top: 150px;
+    /*border-style: outset;
+
+
+}
+*/
+
+#time
+{
+    width:300px;
+    height:20px;
+    padding-left: 560px;
+    padding-top: 300px;
+    color:cyan;
+    font-size: 50px;
+
+}
+#sumit
+{
+    font-size: 30px;
+    color:cyan;
+    margin-left: 20px;
+    background-color: black;
+    cursor: pointer;
+}
+@media screen and (max-width:842px)
+{
+
+    #kamal
+    {
+        width: 848px;
+    }
+    
+    #time
+    {
+        width:250px;
+        height:20px;
+        padding-left: 300px;
+       /* padding-top: 300px;
+        color:cyan;*/
+        font-size: 30px;
+    }
+
+    #sumit
+    {
+        font-size: 20px;
+        margin-left:20px;
+
+
+    }
+    
+
+}
+
+@media screen and (max-width:500px)
+{
+    #sumit
+    {
+        margin-left:-20px;
+        font-size:10px;
+    }
+
+    #time
+    {
+        padding-left:150px;
+    }
+}
